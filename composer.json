@@ -1,0 +1,6 @@
+{
+    "require": {
+        "asyncphp/doorman": "^3.0",
+        "asyncphp/remit": "^3.1"
+    }
+}
