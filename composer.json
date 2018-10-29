@@ -1,6 +1,7 @@
 {
     "require": {
         "asyncphp/doorman": "^3.0",
-        "asyncphp/remit": "^3.1"
+        "asyncphp/remit": "^3.1",
+        "amphp/parallel-functions": "^0.1.3"
     }
 }
